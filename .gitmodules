@@ -7,3 +7,6 @@
 [submodule "src/BLEMeshChat"]
 	path = src/BLEMeshChat
 	url = https://github.com/chrisballinger/BLEMeshChat.git
+[submodule "src/AirShare"]
+	path = src/AirShare
+	url = https://github.com/chrisballinger/AirShare.git
