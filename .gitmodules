@@ -1,0 +1,3 @@
+[submodule "src/GilgaMesh"]
+	path = src/GilgaMesh
+	url = https://github.com/n8fr8/gilgamesh.git
