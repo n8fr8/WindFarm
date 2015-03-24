@@ -31,3 +31,6 @@
 [submodule "src/ProtestApp"]
 	path = src/ProtestApp
 	url = https://github.com/jackflips/Protest.git
+[submodule "src/FieldGuide"]
+	path = src/FieldGuide
+	url = https://github.com/sifrwahid/autonomous-communications-fieldguide.git
