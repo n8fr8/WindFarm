@@ -13,3 +13,9 @@
 [submodule "src/BatPhone"]
 	path = src/BatPhone
 	url = https://github.com/servalproject/batphone.git
+[submodule "src/Briar"]
+	path = src/Briar
+	url = https://code.briarproject.org/akwizgran/briar.git
+[submodule "src/PirateBox-Mesh"]
+	path = src/PirateBox-Mesh
+	url = https://github.com/PirateBox-Dev/PirateBox-Mesh.git
