@@ -19,3 +19,6 @@
 [submodule "src/PirateBox-Mesh"]
 	path = src/PirateBox-Mesh
 	url = https://github.com/PirateBox-Dev/PirateBox-Mesh.git
+[submodule "src/TeleHash"]
+	path = src/TeleHash
+	url = https://github.com/telehash/telehash.org.git
