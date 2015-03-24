@@ -10,3 +10,6 @@
 [submodule "src/AirShare"]
 	path = src/AirShare
 	url = https://github.com/chrisballinger/AirShare.git
+[submodule "src/BatPhone"]
+	path = src/BatPhone
+	url = https://github.com/servalproject/batphone.git
