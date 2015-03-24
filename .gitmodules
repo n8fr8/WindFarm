@@ -22,3 +22,6 @@
 [submodule "src/TeleHash"]
 	path = src/TeleHash
 	url = https://github.com/telehash/telehash.org.git
+[submodule "src/F-Droid"]
+	path = src/F-Droid
+	url = https://github.com/f-droid/fdroid-client.git
