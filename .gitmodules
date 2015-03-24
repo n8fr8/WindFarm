@@ -28,3 +28,6 @@
 [submodule "src/Commotion"]
 	path = src/Commotion
 	url = https://github.com/opentechinstitute/commotion-router.git
+[submodule "src/ProtestApp"]
+	path = src/ProtestApp
+	url = https://github.com/jackflips/Protest.git
