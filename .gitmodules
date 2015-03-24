@@ -1,3 +1,9 @@
 [submodule "src/GilgaMesh"]
 	path = src/GilgaMesh
 	url = https://github.com/n8fr8/gilgamesh.git
+[submodule "src/EnsiChat"]
+	path = src/EnsiChat
+	url = https://github.com/Nutomic/ensichat.git
+[submodule "src/BLEMeshChat"]
+	path = src/BLEMeshChat
+	url = https://github.com/chrisballinger/BLEMeshChat.git
