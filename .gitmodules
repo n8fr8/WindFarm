@@ -25,3 +25,6 @@
 [submodule "src/F-Droid"]
 	path = src/F-Droid
 	url = https://github.com/f-droid/fdroid-client.git
+[submodule "src/Commotion"]
+	path = src/Commotion
+	url = https://github.com/opentechinstitute/commotion-router.git
