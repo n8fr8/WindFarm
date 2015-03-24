@@ -34,3 +34,6 @@
 [submodule "src/FieldGuide"]
 	path = src/FieldGuide
 	url = https://github.com/sifrwahid/autonomous-communications-fieldguide.git
+[submodule "src/DigitalVoices"]
+	path = src/DigitalVoices
+	url = https://github.com/diva/digital-voices.git
