@@ -20,11 +20,11 @@ Repeat (RPT) is meant to allow a message to extend further in its reach, by allo
 
 A mixture of retweeters and repeaters in a crowd, can then extend the reach of a message from 10m or 100m up to say, 400m in the drawing below. A repeater might be a fixed device, say a phone or tablet with a good solid antenna plugged into a battery pack or an outlet somewhere.
 
-!StatusCasting-Diagram1-1024x717.png
+!(img/StatusCasting-Diagram1-1024x717.png)
 
 A retweeter is more likely a person in the crowd, moving through the area in a variety of directions. As they continue moving however, they will keep rebroadcasting their last few tweets, including the retweet. As they encounter new receivers / lurkers, they will receive the original message, and the mesh is now extended in a non contiguous-manner.
 
-!StatusCasting-Diagram2-1024x717.png
+!(img/StatusCasting-Diagram2-1024x717.png)
 
 The Gilgamesh app supports a simple two-tap feature to manually reshare any status message you have received. Once this is done, your device then rebroadcasts the message over its Bluetooth and Wifi radios, with the expected “RT @900734 i am live on air” format. Also, remember beyond this particular app, any user can manually set their Bluetooth device name, be it a laptop or an iPad, to use a similar format. The app also now supports an automatic repeater mode, that can be easily toggled off and on. In this mode, *ANY* message you receive is automatically rebroadcast, using the “RPT @900734 does the repeater hear me” syntax. You can see this in the screenshot below.
 device-2014-10-06-165429  device-2014-10-09-120044
