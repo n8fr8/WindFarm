@@ -1,6 +1,8 @@
 Original from here:
 http://www.wired.com/2011/11/starling-flock/
 
+![murmur](http://www.wired.com/images_blogs/wiredscience/2010/06/starlings-e1276713669193.jpg)
+
 VIDEO OF A massive starling flock turning and twisting over a river in Ireland has gone viral, and with good reason. Flocking starlings are one of nature’s most extraordinary sights: Just a few hundred birds moving as one is enough to convey a sense of suspended reality, and the flock filmed above the River Shannon contained thousands.
 
 What makes possible the uncanny coordination of these murmurations, as starling flocks are so beautifully known? Until recently, it was hard to say. Scientists had to wait for the tools of high-powered video analysis and computational modeling. And when these were finally applied to starlings, they revealed patterns known less from biology than cutting-edge physics.
