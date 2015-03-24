@@ -1,6 +1,4 @@
-# THE WIND
-
-![logo](doc/img/wind.png)
+# THE WIND ![logo](doc/img/wind.png) ![make a wish](http://media.giphy.com/media/xvtsqO6ip92Tu/giphy.gif)
 
 Wind is spontaneous and often unexpected. It can manifest as a slight breeze, or a powerful gale. It can move in many directions and as a focused force. It can gently spread the seeds of life, and be a fearful force of destruction. Wind can carry a message for miles, even around the world. Wind can be harnessed and turned into energy.
 
@@ -17,3 +15,12 @@ This is the place from where we will gather resources, ideas, visions, and plans
 - Understand the [Real World User Stores](https://github.com/n8fr8/WindFarm/blob/master/doc/UserStories.md) driving this effort and concept
 
 ![wind grrl](http://media.giphy.com/media/9Ji3dnzzl9ALC/giphy.gif)
+
+# IN REAL LIFE
+
+We aim to convene a number of events on this topic in the coming months, so that we can keep focused on real-world, hands-on, functioning solutions that actually help people and communities sooner rather than later.
+
+You can see the "events" folder for details on upcoming events.
+
+![you too can be the wind](http://media.giphy.com/media/MtvGS8MXA5O6c/giphy.gif)
+
