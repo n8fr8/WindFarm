@@ -37,3 +37,6 @@
 [submodule "src/DigitalVoices"]
 	path = src/DigitalVoices
 	url = https://github.com/diva/digital-voices.git
+[submodule "src/PeerDiscovery"]
+	path = src/PeerDiscovery
+	url = https://code.briarproject.org/akwizgran/peer-discovery.git
