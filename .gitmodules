@@ -40,3 +40,6 @@
 [submodule "src/PeerDiscovery"]
 	path = src/PeerDiscovery
 	url = https://code.briarproject.org/akwizgran/peer-discovery.git
+[submodule "src/WRTnode"]
+	path = src/WRTnode
+	url = https://github.com/WRTnode/openwrt-patches.git
