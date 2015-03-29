@@ -4,6 +4,9 @@
 
 Wind is the untapped energy that is all around us.  spontaneous and often unexpected. It can manifest as a slight breeze, or a powerful gale. It can move in many directions and as a focused force. It can gently spread the seeds of life, and be a fearful force of destruction. Wind can carry a message for miles, even around the world. Wind can be harnessed and turned into energy. Wind is not the Internet, and it is not the Web, it is something new. 
 
+![wind farm](http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gansu.Guazhou.windturbine_farm.sunset.jpg/1920px-Gansu.Guazhou.windturbine_farm.sunset.jpg)
+"Gansu.Guazhou.windturbine farm.sunset" by Popolon - Own work. Licensed under CC BY-SA 3.0 via Wikimedia Commons - http://commons.wikimedia.org/wiki/File:Gansu.Guazhou.windturbine_farm.sunset.jpg#/media/File:Gansu.Guazhou.windturbine_farm.sunset.jpg
+
 The concept of Wind comes from the recognition that, when it comes to nearby communication between small portable computing devices, there is a massive failure in metaphor and vision. While Apple has clearly laid out their glossary of nearby services (AirDrop, Continuity, iBeacon, etc), there exists little other terminology, narratives or visions beyond that tired catch-all "mesh", and to a lesser extent "beam". Beyond that, there is a rush to create proprietary, siloed solutions for various vertical IoT-needs and new kinds of commercial social network and messaging solutions. 
 
 Ultimately, there is no common ground, space, or sense of place when we talk about this nearby area, and that is a bad thing. Wind is an attempt to envision one, and the Wind Farm Zero event is a place to meet and be involved in that idea.
