@@ -10,10 +10,10 @@ Wind Farm builds on an "Internet Blackout Simulation Event" held in 2013 in New 
 
 ##INFORMATION
 
-- When: May 15 9am-5pm and March 16 10am-4pm
-- Location: Berkman Center for Internet & Society, Harvard University Law School, Cambridge, MA, USA*
-- Organizer: Nathan Freitas, Berkman Fellow, Founder of the Guardian Project, and Tech Director at Rights Action Lab
-- Who: Variety of participants working in non(post?)-Internet communication systems for applications ranging from humanitarian, health, human rights and general happiness
+- *When:* May 15 9am-5pm and March 16 10am-4pm
+- *Where:* Berkman Center for Internet & Society, Harvard University Law School, Cambridge, MA, USA*
+- *Organizer:* Nathan Freitas, Berkman Fellow, Founder of the Guardian Project, and Tech Director at Rights Action Lab
+- *Who:* Variety of participants working in non(post?)-Internet communication systems for applications ranging from humanitarian, health, human rights and general happiness
 
 * Remote participation can be supported by video conference or dial-in, but in person participation is preferred for obvious reasons!
 
@@ -25,21 +25,21 @@ The [Chatham House Rule](http://www.chathamhouse.org/about/chatham-house-rule) w
 
 Day one will be a semi-private session of invited participants and members of the Berkman community. We will try to find common ground between our various efforts in non-Internet, nearby, "mesh" communication systems, while having room to share our divergent views on what the future of device-to-device communications will look like. We will hear from everyday people, activists, aid workers and others who have direct experience being and working in places where all traditional communcations are down, or are otherwise not viable. We will have the chance to share with eachother our coolest, cutting edge demoes and/or our actually shipping, production ready products. Finally, we'll attempt to come away with some basic ideas for collaboration moving forward, which might be helped by sharing a few beers and dinner.
    
-Morning
+*Morning*
 - 8:30am: Coffee and Bagels
 - 9:30am: The Inspiration and Hope for Wind
 - 10am-11am: Stories From the Disconnects and the Dark Spots
 - 11am-12:00pm: Solutions in our Midst: Presentations By Participants
 
-Lunch (provided): 12:00-1:30pm
+*Lunch (provided): 12:00-1:30pm*
 
-Afternoon
+*Afternoon*
 - 1:30-2:30pm: Solutions in our Midst: Presentations By Participants
 - 2:30-3:30pm: Open Discussion and Reflection
 - 3:30pm-5:00pm: Proposals for Collaboration
 - 5pm-7pm: Happy Hour at Cambridge Commons
 
-Dinner (to be organized): 7pm-?
+*Dinner (to be organized): 7pm-?*
 
 ##DAY TWO: Have Fun and Break Things!
 
