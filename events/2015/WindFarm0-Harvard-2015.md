@@ -6,8 +6,8 @@ Wind is the untapped energy that is all around us.  spontaneous and often unexpe
 
 The concept of Wind comes from the recognition that, when it comes to nearby communication between small portable computing devices, there is a massive failure in metaphor and vision. While Apple has clearly laid out their glossary of nearby services (AirDrop, Continuity, iBeacon, etc), there exists little other terminology, narratives or visions beyond that tired catch-all "mesh", and to a lesser extent "beam". Beyond that, there is a rush to create proprietary, siloed solutions for various vertical IoT-needs and new kinds of commercial social network and messaging solutions. 
 
-##WHY DO WE NEED AN EVENT?
-What is needed is a common ground to between all the stakeholders who are investing time, money and creativity in this new space. Wind is an attempt to create a common ground, a basic vision and metaphor to exist within, and a starting point for not a standard, but a dialogue, terminologyl and potentially shared narrative of how, who and what we expect people to do. This event is an attempt to begin that process.
+##WHAT IS THE GOAL OF WIND FARM?
+What is needed is a common ground to between all the stakeholders who are investing time, money and creativity in this new space. Wind Farm Zero is an attempt to facilitate a basic vision and metaphor for us to all work within. It is a starting point, not a standard, an intervent to create a dialogue, shared terminology and potentially shared narrative of how, who and what we expect people to do when they have a super-computer in their pocket, but no Internet.
 
 We will hear first-hand stories from people who have experienced the network-less aftermath of both natural (hurricanes, earthquakes) and man-made (political blackouts, bombings) catastrophes. We will discuss the state of mobile communication technologies such as BluetoothLE and Wifi Direct, and platform-specific APIs such as Apple's MultiPeer Connectivity Framework. We'll hear from projects that have been diligently working on this problem space for many years, and from those who have jumped in more recently with fresh insights. 
 
