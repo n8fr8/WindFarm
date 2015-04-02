@@ -2,19 +2,12 @@
 
 ##OVERVIEW
 
-Wind is the untapped energy that is all around us.  spontaneous and often unexpected. It can manifest as a slight breeze, or a powerful gale. It can move in many directions and as a focused force. It can gently spread the seeds of life, and be a fearful force of destruction. Wind can carry a message for miles, even around the world. Wind can be harnessed and turned into energy. Wind is not the Internet, and it is not the Web, it is something new. 
+Wind is the untapped energy that is all around us.  spontaneous and often unexpected. It can manifest as a slight breeze, or a powerful gale. It can move in many directions and as a focused force. It can gently spread the seeds of life, and be a fearful force of destruction. Wind can carry a message for miles, even around the world. Wind can be harnessed and turned into energy. Wind, in this case, is a metapor to describe something that is not the Internet, and it is not the Web, but something new. 
 
 ![wind farm](http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Gansu.Guazhou.windturbine_farm.sunset.jpg/1920px-Gansu.Guazhou.windturbine_farm.sunset.jpg)
 ["Gansu.Guazhou.windturbine farm.sunset" by Popolon. CC BY-SA 3.0 via Wikimedia Commons](http://commons.wikimedia.org/wiki/File:Gansu.Guazhou.windturbine_farm.sunset.jpg#/media/File:Gansu.Guazhou.windturbine_farm.sunset.jpg)
 
-The concept of Wind comes from the recognition that, when it comes to nearby communication between small portable computing devices, there is a massive failure in metaphor and vision. While Apple has clearly laid out their glossary of nearby services (AirDrop, Continuity, iBeacon, etc), there exists little other terminology, narratives or visions beyond that tired catch-all "mesh", and to a lesser extent "beam". Beyond that, there is a rush to create proprietary, siloed solutions for various vertical IoT-needs and new kinds of commercial social network and messaging solutions. 
-
-Ultimately, there is no common ground, space, or sense of place when we talk about this nearby area, and that is a bad thing. Wind is an attempt to envision one, and the Wind Farm Zero event is a place to meet and be involved in that idea.
-
-##WHAT IS THE GOAL OF WIND FARM?
-What is needed is a common ground to between all the stakeholders who are investing time, money and creativity in this new space. Wind Farm Zero is an attempt to facilitate a basic vision and metaphor for us to all work within. It is a starting point, not a standard, an intervent to create a dialogue, shared terminology and potentially shared narrative of how, who and what we expect people to do when they have a super-computer in their pocket, but no Internet.
-
-We will hear first-hand stories from people who have experienced the network-less aftermath of both natural (hurricanes, earthquakes) and man-made (political blackouts, untrustworthy infrastrucure) communication catastrophes. We will discuss the state of mobile communication technologies such as BluetoothLE and Wifi Direct, and platform-specific APIs such as Apple's MultiPeer Connectivity Framework. We will explore what it means to turn our client devices into mobile servers, and how we can hack cheap smartphones and routers that are readily available around the planet to turn them into powerful network nodes and beacons. We'll hear from projects that have been diligently working on this problem space for many years, and from those who have jumped in more recently with fresh insights. Through this, we will try to find points of collaboration, where we can come together to benefit the user and community together. Finally, we'll have the chance to be hands-on, with all the apps, demos, and prototypes that are ready to be used and tested by a crowd of real people, under semi-real circumstances.
+Wind Farm Zero is an attempt to facilitate a basic vision and metaphor for us to all work within. It is a starting point, not a standard, an intervent to create a dialogue, shared terminology and potentially shared narrative of how, who and what we expect people to do when they have a super-computer in their pocket, but no Internet. We will hear first hands stories from people who have experienced network-less situations (hurricanes, earthquakes, protests), and share new promising projects, protocols and products that can address these times. Most importantly, we'll have time to be hands-on with a large group of people moving around in the real world, to see what works and does not work today.
 
 This Wind Farm event builds on an "Internet Blackout Simulation Event" held in 2013 in New York at Eyebeam. You can learn more about that event at the links below:
 - http://eyebeam.org/events/eyebeam-square-an-internet-blackout-simulation-event
@@ -27,7 +20,7 @@ This Wind Farm event builds on an "Internet Blackout Simulation Event" held in 2
 - *Organizer:* Nathan Freitas, Berkman Fellow, Founder of the Guardian Project, and Tech Director at Rights Action Lab
 - *Who:* Variety of participants working in non(post?)-Internet communication systems for applications ranging from humanitarian, health, human rights and general happiness
 
-* Remote participation can be supported by video conference or dial-in, but in person participation is preferred for obvious reasons!
+* Remote participation can be supported on Friday through video conference or dial-in, but in person participation is preferred for obvious reasons!
 
 The [Chatham House Rule](http://www.chathamhouse.org/about/chatham-house-rule) will be in effect, to encourage more open discussion and honest sharing. Remote participants will be connected via private video conference. The event will not be live screened, but tweeting, blogging and social media sharing will be allowed.
 
@@ -35,32 +28,9 @@ The [Chatham House Rule](http://www.chathamhouse.org/about/chatham-house-rule) w
 
 ###DAY ONE: Discusions, Demoes and Dreams
 
-Day one will be a semi-private session of invited participants and members of the Berkman community. We will try to find common ground between our various efforts in non-Internet, nearby, "mesh" communication systems, while having room to share our divergent views on what the future of device-to-device communications will look like. We will hear from everyday people, activists, aid workers and others who have direct experience being and working in places where all traditional communcations are down, or are otherwise not viable. We will have the chance to share with eachother our coolest, cutting edge demoes and/or our actually shipping, production ready products. Finally, we'll attempt to come away with some basic ideas for collaboration moving forward, which might be helped by sharing a few beers and dinner.
+Day one will be a semi-private session of invited participants and members of the Berkman community. We will try to find common ground between our various efforts in non-Internet, nearby, "mesh" communication systems, while having room to share our divergent views on what the future of device-to-device communications will look like. We will hear from everyday people, activists, aid workers and others who have direct experience being and working in places where all traditional communications are down, or are otherwise not viable. We will have the chance to share with eachother our coolest, cutting edge demoes and/or our actually shipping, production ready products. Finally, we'll attempt to come away with some basic ideas for collaboration moving forward, which might be helped by sharing a few beers and dinner.
    
-*Morning*
-- 8:30am: Coffee and Bagels
-- 9:30am: The Inspiration and Hope for Wind
-- 10am-11am: Stories From the Disconnects and the Dark Spots
-- 11am-12:00pm: Solutions in our Midst: Presentations By Participants
-
-*Lunch (provided): 12:00-1:30pm*
-
-*Afternoon*
-- 1:30-2:30pm: Solutions in our Midst: Presentations By Participants
-- 2:30-3:30pm: Open Discussion and Reflection
-- 3:30pm-5:00pm: Proposals for Collaboration
-- 5pm-7pm: Happy Hour at Cambridge Commons
-
-*Dinner (to be organized): 7pm-?*
-
 ##DAY TWO: Have Fun and Break Things!
 
 Day two will be more open to a larger community, and will include a more diverse set of participants, including students from the local colleges and high schools. The aim is to expand our theoretical discussions from day one into a hands-on, "live action" game situation, where we can see how different apps, tools, prototypes and services fare when put int the hands of real people. Our hope is to be able to test released solutions at some sort of scale, meaning 30-50 people, potentially. We will be using the Harvard campus as our game space, and the variations on capture the flag and scavenger hunts as the basis of the games, but with all communication occuring via the apps provided.  
 
-- 10am-11am: Game 1 - Meet to Organize Teams, Roles and Scenarios
-- 11am-12:30pm: Wind Game 1
-- 12:30pm-1pm: Report backs
-- 1pm-2pm: Lunch
-- 2pm: Game 2 - Meet to Organize, etc
-- 2:30-3:30pm: Wind Game 2
-- 3:30-4pm: Report backs and Reflections on the Day!
