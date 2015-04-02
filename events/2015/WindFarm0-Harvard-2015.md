@@ -34,3 +34,4 @@ Day one will be a semi-private session of invited participants and members of th
 
 Day two will be more open to a larger community, and will include a more diverse set of participants, including students from the local colleges and high schools. The aim is to expand our theoretical discussions from day one into a hands-on, "live action" game situation, where we can see how different apps, tools, prototypes and services fare when put int the hands of real people. Our hope is to be able to test released solutions at some sort of scale, meaning 30-50 people, potentially. We will be using the Harvard campus as our game space, and the variations on capture the flag and scavenger hunts as the basis of the games, but with all communication occuring via the apps provided.  
 
+![windfarm0 poster](https://raw.githubusercontent.com/n8fr8/WindFarm/master/events/2015/windfarm0.png)
