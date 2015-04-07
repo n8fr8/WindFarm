@@ -1,5 +1,4 @@
 #WIND FARM 0: MAY 15-16, 2015
-http://windfarm0.link #windfarm0
 
 ##OVERVIEW
 
@@ -14,6 +13,7 @@ This Wind Farm event builds on an "Internet Blackout Simulation Event" held in 2
 
 ##INFORMATION
 
+- *Info:* http://windfarm0.link (https://github.com/n8fr8/WindFarm/blob/master/events/2015/WindFarm0-Harvard-2015.md)
 - *When:* May 15 9am-5pm and March 16 10am-4pm
 - *Where:* Berkman Center for Internet & Society, Harvard University Law School, 23 Everett Street, Cambridge, MA, USA 
 - *Organizer:* Nathan Freitas, Berkman Fellow; Founder of the Guardian Project, and Tech Director at Rights Action Lab
